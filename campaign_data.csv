@@ -1,0 +1,169 @@
+Row_ID,Month,Month_Num,Year,Channel,Campaign,Audience_Segment,Impressions,Clicks,CTR_Pct,Conversions,Conversion_Rate_Pct,Spend_USD,CPC_USD,Revenue_Generated_USD,ROI_Pct
+1,January 2023,1,2023,Email,Newsletter,High-Intent,13890,2641,19.01,104,3.94,454.07,0,17022.34,3648.8
+2,January 2023,1,2023,Email,Drip Sequence,Lookalike,8824,1893,21.45,59,3.12,395.36,0,5485.82,1287.6
+3,January 2023,1,2023,Email,Re-engagement,Lookalike,9472,2163,22.84,89,4.11,384.45,0,12331.12,3107.5
+4,January 2023,1,2023,Email,Promotional Blast,Returning Users,13406,2763,20.61,82,2.97,339.67,0,10384.89,2957.3
+5,January 2023,1,2023,Paid Search,Brand Keywords,Returning Users,6268,340,5.42,13,3.82,939.94,2.76,2095.47,122.9
+6,January 2023,1,2023,Paid Search,Competitor Keywords,Lookalike,6917,406,5.87,18,4.43,952.35,2.35,2631.24,176.3
+7,January 2023,1,2023,Paid Search,Long-tail Product,High-Intent,5119,332,6.49,13,3.92,912.64,2.75,1973.93,116.3
+8,January 2023,1,2023,Social Media,LinkedIn Sponsored,High-Intent,20228,416,2.06,4,0.96,820.73,1.97,748.86,-8.8
+9,January 2023,1,2023,Social Media,Facebook Retargeting,Returning Users,23450,480,2.05,4,0.83,896.14,1.87,766.11,-14.5
+10,January 2023,1,2023,Social Media,Instagram Story,High-Intent,18609,334,1.79,4,1.2,672.63,2.01,390.54,-41.9
+11,January 2023,1,2023,Display Ads,Awareness Banner,High-Intent,37589,130,0.35,0,0.0,528.39,4.06,0.0,-100.0
+12,January 2023,1,2023,Display Ads,Retargeting Display,Churned Customers,29893,125,0.42,0,0.0,477.71,3.82,0.0,-100.0
+13,January 2023,1,2023,Organic Search,SEO Blog,New Visitors,8584,361,4.21,11,3.05,0.0,0,2296.47,0
+14,January 2023,1,2023,Organic Search,Landing Page Organic,Churned Customers,8668,395,4.56,12,3.04,0.0,0,2419.65,0
+15,February 2023,2,2023,Email,Newsletter,High-Intent,17840,4139,23.2,137,3.31,435.53,0,13179.8,2926.2
+16,February 2023,2,2023,Email,Drip Sequence,Returning Users,9923,2173,21.9,78,3.59,375.1,0,6673.11,1679.0
+17,February 2023,2,2023,Email,Re-engagement,Churned Customers,13949,2901,20.8,86,2.96,467.57,0,18342.1,3822.9
+18,February 2023,2,2023,Email,Promotional Blast,New Visitors,15598,3896,24.98,146,3.75,430.34,0,20255.95,4607.0
+19,February 2023,2,2023,Paid Search,Brand Keywords,Churned Customers,6496,338,5.2,13,3.85,849.32,2.51,1389.84,63.6
+20,February 2023,2,2023,Paid Search,Competitor Keywords,High-Intent,5427,332,6.12,16,4.82,1165.21,3.51,2685.67,130.5
+21,February 2023,2,2023,Paid Search,Long-tail Product,New Visitors,8271,443,5.36,19,4.29,1125.85,2.54,2549.08,126.4
+22,February 2023,2,2023,Social Media,LinkedIn Sponsored,New Visitors,18736,385,2.05,4,1.04,653.81,1.7,417.82,-36.1
+23,February 2023,2,2023,Social Media,Facebook Retargeting,High-Intent,22955,436,1.9,5,1.15,787.8,1.81,1067.61,35.5
+24,February 2023,2,2023,Social Media,Instagram Story,High-Intent,19585,302,1.54,3,0.99,753.03,2.49,604.65,-19.7
+25,February 2023,2,2023,Display Ads,Awareness Banner,High-Intent,43220,165,0.38,0,0.0,525.08,3.18,0.0,-100.0
+26,February 2023,2,2023,Display Ads,Retargeting Display,Returning Users,41971,180,0.43,0,0.0,508.73,2.83,0.0,-100.0
+27,February 2023,2,2023,Organic Search,SEO Blog,Returning Users,9302,447,4.81,14,3.13,0.0,0,2082.53,0
+28,February 2023,2,2023,Organic Search,Landing Page Organic,Returning Users,14014,620,4.42,20,3.23,0.0,0,4278.5,0
+29,March 2023,3,2023,Email,Newsletter,High-Intent,10010,2182,21.8,71,3.25,436.77,0,15478.61,3443.9
+30,March 2023,3,2023,Email,Drip Sequence,Lookalike,16701,3842,23.0,150,3.9,516.86,0,26126.86,4954.9
+31,March 2023,3,2023,Email,Re-engagement,Churned Customers,19117,4178,21.85,127,3.04,586.12,0,16496.01,2714.4
+32,March 2023,3,2023,Email,Promotional Blast,Churned Customers,17239,3320,19.26,100,3.01,550.87,0,8871.91,1510.5
+33,March 2023,3,2023,Paid Search,Brand Keywords,Lookalike,10878,583,5.36,31,5.32,1510.72,2.59,5385.67,256.5
+34,March 2023,3,2023,Paid Search,Competitor Keywords,High-Intent,7420,381,5.13,20,5.25,1130.72,2.97,1977.48,74.9
+35,March 2023,3,2023,Paid Search,Long-tail Product,Returning Users,9717,640,6.59,27,4.22,1132.64,1.77,3362.86,196.9
+36,March 2023,3,2023,Social Media,LinkedIn Sponsored,Returning Users,24673,450,1.82,6,1.33,904.71,2.01,1109.34,22.6
+37,March 2023,3,2023,Social Media,Facebook Retargeting,Churned Customers,31765,574,1.81,7,1.22,1034.5,1.8,718.57,-30.5
+38,March 2023,3,2023,Social Media,Instagram Story,Returning Users,18185,321,1.77,3,0.93,829.16,2.58,578.66,-30.2
+39,March 2023,3,2023,Display Ads,Awareness Banner,Returning Users,38431,136,0.35,0,0.0,557.65,4.1,0.0,-100.0
+40,March 2023,3,2023,Display Ads,Retargeting Display,Churned Customers,33870,137,0.4,0,0.0,635.6,4.64,0.0,-100.0
+41,March 2023,3,2023,Organic Search,SEO Blog,Lookalike,8593,432,5.03,9,2.08,0.0,0,1947.63,0
+42,March 2023,3,2023,Organic Search,Landing Page Organic,Lookalike,13642,605,4.43,17,2.81,0.0,0,3605.75,0
+43,April 2023,4,2023,Email,Newsletter,Lookalike,21622,4413,20.41,158,3.58,620.13,0,31347.2,4954.9
+44,April 2023,4,2023,Email,Drip Sequence,Returning Users,13855,2879,20.78,107,3.72,486.67,0,12167.3,2400.1
+45,April 2023,4,2023,Email,Re-engagement,High-Intent,20592,4060,19.72,154,3.79,572.12,0,16062.53,2707.5
+46,April 2023,4,2023,Email,Promotional Blast,Returning Users,14588,3645,24.99,122,3.35,583.16,0,26673.18,4473.9
+47,April 2023,4,2023,Paid Search,Brand Keywords,Returning Users,6929,417,6.02,18,4.32,1017.98,2.44,2304.02,126.3
+48,April 2023,4,2023,Paid Search,Competitor Keywords,High-Intent,7073,416,5.88,16,3.85,993.08,2.39,2707.68,172.7
+49,April 2023,4,2023,Paid Search,Long-tail Product,Lookalike,7167,484,6.75,20,4.13,1505.89,3.11,1926.97,28.0
+50,April 2023,4,2023,Social Media,LinkedIn Sponsored,High-Intent,25188,422,1.68,4,0.95,764.68,1.81,832.16,8.8
+51,April 2023,4,2023,Social Media,Facebook Retargeting,High-Intent,25139,454,1.81,5,1.1,854.93,1.88,613.37,-28.3
+52,April 2023,4,2023,Social Media,Instagram Story,Returning Users,18406,374,2.03,4,1.07,945.09,2.53,385.22,-59.2
+53,April 2023,4,2023,Display Ads,Awareness Banner,Returning Users,42471,167,0.39,0,0.0,528.74,3.17,0.0,-100.0
+54,April 2023,4,2023,Display Ads,Retargeting Display,High-Intent,30638,130,0.42,0,0.0,692.51,5.33,0.0,-100.0
+55,April 2023,4,2023,Organic Search,SEO Blog,Returning Users,9758,413,4.23,12,2.91,0.0,0,1830.14,0
+56,April 2023,4,2023,Organic Search,Landing Page Organic,Returning Users,13324,688,5.16,15,2.18,0.0,0,2298.95,0
+57,May 2023,5,2023,Email,Newsletter,Returning Users,12961,2806,21.65,104,3.71,525.16,0,18057.39,3338.5
+58,May 2023,5,2023,Email,Drip Sequence,Lookalike,15798,3482,22.04,131,3.76,617.01,0,17195.73,2686.9
+59,May 2023,5,2023,Email,Re-engagement,Returning Users,13403,2554,19.06,76,2.98,449.55,0,14061.52,3027.9
+60,May 2023,5,2023,Email,Promotional Blast,High-Intent,10912,2519,23.08,83,3.29,496.66,0,17934.27,3511.0
+61,May 2023,5,2023,Paid Search,Brand Keywords,Lookalike,6515,386,5.92,15,3.89,1103.83,2.86,1808.07,63.8
+62,May 2023,5,2023,Paid Search,Competitor Keywords,High-Intent,9632,533,5.53,30,5.63,1351.64,2.54,3994.16,195.5
+63,May 2023,5,2023,Paid Search,Long-tail Product,New Visitors,5766,323,5.6,16,4.95,1094.73,3.39,3036.67,177.4
+64,May 2023,5,2023,Social Media,LinkedIn Sponsored,New Visitors,17662,308,1.74,3,0.97,762.91,2.48,378.22,-50.4
+65,May 2023,5,2023,Social Media,Facebook Retargeting,Returning Users,27973,556,1.99,5,0.9,852.16,1.53,954.23,12.0
+66,May 2023,5,2023,Social Media,Instagram Story,Lookalike,21911,451,2.06,4,0.89,920.17,2.04,687.34,-25.3
+67,May 2023,5,2023,Display Ads,Awareness Banner,New Visitors,50678,203,0.4,1,0.49,700.4,3.45,153.25,-78.1
+68,May 2023,5,2023,Display Ads,Retargeting Display,Lookalike,45743,200,0.44,0,0.0,683.65,3.42,0.0,-100.0
+69,May 2023,5,2023,Organic Search,SEO Blog,Returning Users,7640,357,4.67,11,3.08,0.0,0,1605.31,0
+70,May 2023,5,2023,Organic Search,Landing Page Organic,New Visitors,13646,647,4.74,18,2.78,0.0,0,3468.41,0
+71,June 2023,6,2023,Email,Newsletter,Lookalike,12984,2878,22.17,110,3.82,570.15,0,21366.9,3647.6
+72,June 2023,6,2023,Email,Drip Sequence,High-Intent,16052,3246,20.22,120,3.7,460.06,0,23897.61,5094.5
+73,June 2023,6,2023,Email,Re-engagement,New Visitors,16787,3988,23.76,146,3.66,518.43,0,13936.97,2588.3
+74,June 2023,6,2023,Email,Promotional Blast,Returning Users,15700,3653,23.27,134,3.67,444.57,0,20116.99,4425.0
+75,June 2023,6,2023,Paid Search,Brand Keywords,Churned Customers,8284,525,6.34,26,4.95,1079.32,2.06,4023.04,272.7
+76,June 2023,6,2023,Paid Search,Competitor Keywords,Churned Customers,9317,641,6.88,31,4.84,1159.13,1.81,2994.3,158.3
+77,June 2023,6,2023,Paid Search,Long-tail Product,Churned Customers,6677,439,6.57,25,5.69,1016.55,2.32,3031.72,198.2
+78,June 2023,6,2023,Social Media,LinkedIn Sponsored,Returning Users,36254,569,1.57,5,0.88,1088.56,1.91,601.72,-44.7
+79,June 2023,6,2023,Social Media,Facebook Retargeting,High-Intent,26636,480,1.8,6,1.25,837.1,1.74,697.42,-16.7
+80,June 2023,6,2023,Social Media,Instagram Story,Churned Customers,19489,398,2.04,5,1.26,865.36,2.17,915.85,5.8
+81,June 2023,6,2023,Display Ads,Awareness Banner,Churned Customers,34287,151,0.44,0,0.0,607.09,4.02,0.0,-100.0
+82,June 2023,6,2023,Display Ads,Retargeting Display,New Visitors,37934,129,0.34,0,0.0,661.74,5.13,0.0,-100.0
+83,June 2023,6,2023,Organic Search,SEO Blog,Churned Customers,14912,642,4.31,17,2.65,0.0,0,1555.78,0
+84,June 2023,6,2023,Organic Search,Landing Page Organic,New Visitors,11415,534,4.68,12,2.25,0.0,0,1726.71,0
+85,July 2023,7,2023,Email,Newsletter,High-Intent,12649,3163,25.01,127,4.02,484.8,0,21611.71,4357.9
+86,July 2023,7,2023,Email,Drip Sequence,Lookalike,17506,3330,19.02,127,3.81,510.56,0,23699.49,4541.9
+87,July 2023,7,2023,Email,Re-engagement,High-Intent,18898,4220,22.33,128,3.03,496.52,0,15748.57,3071.8
+88,July 2023,7,2023,Email,Promotional Blast,High-Intent,21097,4307,20.42,160,3.71,525.15,0,25638.15,4782.1
+89,July 2023,7,2023,Paid Search,Brand Keywords,Churned Customers,7727,404,5.23,19,4.7,1133.99,2.81,3026.74,166.9
+90,July 2023,7,2023,Paid Search,Competitor Keywords,Churned Customers,11930,705,5.91,28,3.97,1294.05,1.84,2722.9,110.4
+91,July 2023,7,2023,Paid Search,Long-tail Product,High-Intent,7371,424,5.75,22,5.19,1166.25,2.75,1929.64,65.5
+92,July 2023,7,2023,Social Media,LinkedIn Sponsored,Churned Customers,28008,460,1.64,5,1.09,923.01,2.01,761.25,-17.5
+93,July 2023,7,2023,Social Media,Facebook Retargeting,Lookalike,22671,408,1.8,5,1.23,1128.78,2.77,570.78,-49.4
+94,July 2023,7,2023,Social Media,Instagram Story,High-Intent,26664,500,1.88,5,1.0,992.57,1.99,974.68,-1.8
+95,July 2023,7,2023,Display Ads,Awareness Banner,New Visitors,34078,147,0.43,0,0.0,585.32,3.98,0.0,-100.0
+96,July 2023,7,2023,Display Ads,Retargeting Display,New Visitors,49198,216,0.44,1,0.46,643.01,2.98,118.54,-81.6
+97,July 2023,7,2023,Organic Search,SEO Blog,New Visitors,8771,450,5.13,10,2.22,0.0,0,1796.36,0
+98,July 2023,7,2023,Organic Search,Landing Page Organic,Churned Customers,12286,470,3.83,11,2.34,0.0,0,990.82,0
+99,August 2023,8,2023,Email,Newsletter,High-Intent,18843,4180,22.18,142,3.4,614.61,0,13976.36,2174.0
+100,August 2023,8,2023,Email,Drip Sequence,High-Intent,16109,3424,21.26,106,3.1,521.87,0,9159.71,1655.2
+101,August 2023,8,2023,Email,Re-engagement,High-Intent,15333,3187,20.79,126,3.95,559.03,0,19661.98,3417.2
+102,August 2023,8,2023,Email,Promotional Blast,Lookalike,17834,4164,23.35,134,3.22,421.22,0,20404.43,4744.1
+103,August 2023,8,2023,Paid Search,Brand Keywords,Churned Customers,5868,344,5.86,15,4.36,1050.63,3.05,2684.04,155.5
+104,August 2023,8,2023,Paid Search,Competitor Keywords,Churned Customers,7274,371,5.1,16,4.31,1243.79,3.35,1505.65,21.1
+105,August 2023,8,2023,Paid Search,Long-tail Product,Churned Customers,8302,545,6.56,23,4.22,1325.84,2.43,4316.26,225.5
+106,August 2023,8,2023,Social Media,LinkedIn Sponsored,High-Intent,23791,442,1.86,6,1.36,794.99,1.8,1247.42,56.9
+107,August 2023,8,2023,Social Media,Facebook Retargeting,New Visitors,22907,399,1.74,4,1.0,1146.04,2.87,416.63,-63.6
+108,August 2023,8,2023,Social Media,Instagram Story,New Visitors,21968,389,1.77,5,1.29,939.57,2.42,501.41,-46.6
+109,August 2023,8,2023,Display Ads,Awareness Banner,New Visitors,41553,150,0.36,1,0.67,728.67,4.86,89.31,-87.7
+110,August 2023,8,2023,Display Ads,Retargeting Display,Churned Customers,58193,228,0.39,1,0.44,619.11,2.72,95.9,-84.5
+111,August 2023,8,2023,Organic Search,SEO Blog,Churned Customers,10826,555,5.13,13,2.34,0.0,0,2546.86,0
+112,August 2023,8,2023,Organic Search,Landing Page Organic,Churned Customers,11846,484,4.09,13,2.69,0.0,0,1672.41,0
+113,September 2023,9,2023,Email,Newsletter,Churned Customers,12209,2937,24.06,113,3.85,390.49,0,10136.7,2495.9
+114,September 2023,9,2023,Email,Drip Sequence,New Visitors,12330,2464,19.98,71,2.88,569.33,0,9514.11,1571.1
+115,September 2023,9,2023,Email,Re-engagement,High-Intent,18718,3824,20.43,145,3.79,561.62,0,17720.46,3055.2
+116,September 2023,9,2023,Email,Promotional Blast,New Visitors,17257,4144,24.01,170,4.1,496.76,0,33407.12,6625.0
+117,September 2023,9,2023,Paid Search,Brand Keywords,New Visitors,10261,699,6.81,32,4.58,1148.02,1.64,4577.33,298.7
+118,September 2023,9,2023,Paid Search,Competitor Keywords,Churned Customers,7135,365,5.12,20,5.48,1030.36,2.82,3568.7,246.4
+119,September 2023,9,2023,Paid Search,Long-tail Product,Returning Users,7534,427,5.67,19,4.45,1331.63,3.12,1817.67,36.5
+120,September 2023,9,2023,Social Media,LinkedIn Sponsored,Returning Users,19486,341,1.75,4,1.17,878.1,2.58,634.09,-27.8
+121,September 2023,9,2023,Social Media,Facebook Retargeting,Returning Users,36087,744,2.06,8,1.08,968.28,1.3,784.14,-19.0
+122,September 2023,9,2023,Social Media,Instagram Story,Churned Customers,37733,612,1.62,6,0.98,1050.29,1.72,1231.92,17.3
+123,September 2023,9,2023,Display Ads,Awareness Banner,Returning Users,53007,222,0.42,1,0.45,702.96,3.17,124.66,-82.3
+124,September 2023,9,2023,Display Ads,Retargeting Display,Lookalike,31994,118,0.37,0,0.0,527.61,4.47,0.0,-100.0
+125,September 2023,9,2023,Organic Search,SEO Blog,High-Intent,14344,611,4.26,16,2.62,0.0,0,2455.82,0
+126,September 2023,9,2023,Organic Search,Landing Page Organic,Returning Users,9711,432,4.45,9,2.08,0.0,0,1837.63,0
+127,October 2023,10,2023,Email,Newsletter,Returning Users,27449,5206,18.97,167,3.21,676.99,0,18468.93,2628.1
+128,October 2023,10,2023,Email,Drip Sequence,Lookalike,13280,2932,22.08,89,3.04,606.39,0,16876.6,2683.1
+129,October 2023,10,2023,Email,Re-engagement,New Visitors,18251,4159,22.79,129,3.1,560.09,0,13426.95,2297.3
+130,October 2023,10,2023,Email,Promotional Blast,Returning Users,16634,3914,23.53,159,4.06,815.25,0,31091.25,3713.7
+131,October 2023,10,2023,Paid Search,Brand Keywords,Churned Customers,9058,512,5.65,21,4.1,1774.13,3.47,3338.71,88.2
+132,October 2023,10,2023,Paid Search,Competitor Keywords,New Visitors,12058,759,6.29,31,4.08,1546.57,2.04,5368.05,247.1
+133,October 2023,10,2023,Paid Search,Long-tail Product,Churned Customers,10618,595,5.6,26,4.37,1836.63,3.09,3306.39,80.0
+134,October 2023,10,2023,Social Media,LinkedIn Sponsored,Lookalike,35189,541,1.54,7,1.29,1416.43,2.62,1204.03,-15.0
+135,October 2023,10,2023,Social Media,Facebook Retargeting,Churned Customers,29133,446,1.53,6,1.35,1256.14,2.82,1174.5,-6.5
+136,October 2023,10,2023,Social Media,Instagram Story,Churned Customers,31076,605,1.95,6,0.99,1108.42,1.83,625.42,-43.6
+137,October 2023,10,2023,Display Ads,Awareness Banner,Churned Customers,49080,188,0.38,1,0.53,637.34,3.39,123.24,-80.7
+138,October 2023,10,2023,Display Ads,Retargeting Display,Lookalike,34901,134,0.38,0,0.0,748.54,5.59,0.0,-100.0
+139,October 2023,10,2023,Organic Search,SEO Blog,High-Intent,17610,905,5.14,25,2.76,0.0,0,5250.82,0
+140,October 2023,10,2023,Organic Search,Landing Page Organic,Churned Customers,15449,734,4.75,23,3.13,0.0,0,4614.7,0
+141,November 2023,11,2023,Email,Newsletter,Lookalike,23163,5599,24.17,171,3.05,603.23,0,23763.13,3839.3
+142,November 2023,11,2023,Email,Drip Sequence,Lookalike,16096,3168,19.68,131,4.14,623.06,0,14541.05,2233.8
+143,November 2023,11,2023,Email,Re-engagement,Lookalike,24269,5608,23.11,182,3.25,717.06,0,26667.37,3619.0
+144,November 2023,11,2023,Email,Promotional Blast,High-Intent,18363,3735,20.34,124,3.32,673.38,0,18969.9,2717.1
+145,November 2023,11,2023,Paid Search,Brand Keywords,Returning Users,9556,571,5.98,24,4.2,1408.57,2.47,4567.12,224.2
+146,November 2023,11,2023,Paid Search,Competitor Keywords,Churned Customers,13892,808,5.82,32,3.96,1706.97,2.11,4298.24,151.8
+147,November 2023,11,2023,Paid Search,Long-tail Product,Churned Customers,11567,598,5.17,24,4.01,1719.5,2.88,3056.47,77.8
+148,November 2023,11,2023,Social Media,LinkedIn Sponsored,Lookalike,32790,660,2.01,8,1.21,1083.67,1.64,707.93,-34.7
+149,November 2023,11,2023,Social Media,Facebook Retargeting,New Visitors,43642,859,1.97,9,1.05,1511.97,1.76,1362.62,-9.9
+150,November 2023,11,2023,Social Media,Instagram Story,Returning Users,39624,653,1.65,8,1.23,1287.24,1.97,952.4,-26.0
+151,November 2023,11,2023,Display Ads,Awareness Banner,High-Intent,51540,225,0.44,1,0.44,894.17,3.97,209.19,-76.6
+152,November 2023,11,2023,Display Ads,Retargeting Display,Returning Users,58135,214,0.37,1,0.47,766.26,3.58,139.47,-81.8
+153,November 2023,11,2023,Organic Search,SEO Blog,High-Intent,20735,840,4.05,26,3.1,0.0,0,4072.83,0
+154,November 2023,11,2023,Organic Search,Landing Page Organic,High-Intent,17719,802,4.53,24,2.99,0.0,0,2856.58,0
+155,December 2023,12,2023,Email,Newsletter,Lookalike,19318,4629,23.96,146,3.15,755.04,0,23789.78,3050.8
+156,December 2023,12,2023,Email,Drip Sequence,High-Intent,14006,2831,20.21,103,3.64,680.57,0,12876.21,1792.0
+157,December 2023,12,2023,Email,Re-engagement,Lookalike,19728,4970,25.19,179,3.6,626.78,0,22770.16,3532.9
+158,December 2023,12,2023,Email,Promotional Blast,New Visitors,17811,3672,20.62,134,3.65,701.02,0,17976.55,2464.3
+159,December 2023,12,2023,Paid Search,Brand Keywords,New Visitors,7772,487,6.27,18,3.7,1255.3,2.58,2392.56,90.6
+160,December 2023,12,2023,Paid Search,Competitor Keywords,New Visitors,10852,634,5.84,28,4.42,1478.42,2.33,3764.37,154.6
+161,December 2023,12,2023,Paid Search,Long-tail Product,Churned Customers,6648,434,6.53,22,5.07,1393.82,3.21,2059.1,47.7
+162,December 2023,12,2023,Social Media,LinkedIn Sponsored,Returning Users,43228,755,1.75,8,1.06,1200.87,1.59,1376.54,14.6
+163,December 2023,12,2023,Social Media,Facebook Retargeting,Lookalike,39313,724,1.84,9,1.24,1343.87,1.86,1363.81,1.5
+164,December 2023,12,2023,Social Media,Instagram Story,Returning Users,27105,492,1.82,5,1.02,1272.86,2.59,464.41,-63.5
+165,December 2023,12,2023,Display Ads,Awareness Banner,New Visitors,45768,207,0.45,1,0.48,626.14,3.02,167.09,-73.3
+166,December 2023,12,2023,Display Ads,Retargeting Display,Lookalike,52499,217,0.41,1,0.46,757.3,3.49,169.51,-77.6
+167,December 2023,12,2023,Organic Search,SEO Blog,Churned Customers,11924,592,4.96,18,3.04,0.0,0,3332.46,0
+168,December 2023,12,2023,Organic Search,Landing Page Organic,Churned Customers,18382,767,4.17,22,2.87,0.0,0,4517.08,0
